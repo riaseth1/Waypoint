@@ -2,6 +2,7 @@
 
 # waypoint
 
+<p><b>1st place · Best Student Use Case · Berkeley × Stanford Grok Bot Hackathon, November 2026</b></p>
 ### Your visa deadlines, watched for you.
 
 **One missed deadline can end an international student's time in the US. Waypoint puts a team of Grok Bots on watch: they track every visa deadline overnight and tell the student before it's too late.**
